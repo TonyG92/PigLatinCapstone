@@ -1,0 +1,7 @@
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\obj\Debug\CapstonePigLatin.csprojAssemblyReference.cache
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\obj\Debug\CapstonePigLatin.csproj.CoreCompileInputs.cache
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\bin\Debug\CapstonePigLatin.exe.config
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\bin\Debug\CapstonePigLatin.exe
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\bin\Debug\CapstonePigLatin.pdb
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\obj\Debug\CapstonePigLatin.exe
+C:\Users\conqu\source\repos\CapstonePigLatin\CapstonePigLatin\obj\Debug\CapstonePigLatin.pdb
