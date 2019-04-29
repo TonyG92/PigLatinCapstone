@@ -64,7 +64,7 @@ namespace CapstonePigLatin
                         {
                             // make a new substring from our original string 'word' starting from the first letter to the last recorded consonant
                             string consonants = word.Substring(0, count);
-                            string newWord = word.Substring(count, word.Length - 1) + consonants + "ay";
+                            string newWord = word.Substring(count, word.Length - count) + consonants + "ay";
                             return newWord;
 
 
